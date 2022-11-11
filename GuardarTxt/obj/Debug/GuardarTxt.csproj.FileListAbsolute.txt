@@ -9,3 +9,14 @@ C:\Users\oscar\source\repos\GuardarTxt\GuardarTxt\obj\Debug\GuardarTxt.csproj.Ge
 C:\Users\oscar\source\repos\GuardarTxt\GuardarTxt\obj\Debug\GuardarTxt.csproj.CoreCompileInputs.cache
 C:\Users\oscar\source\repos\GuardarTxt\GuardarTxt\obj\Debug\GuardarTxt.exe
 C:\Users\oscar\source\repos\GuardarTxt\GuardarTxt\obj\Debug\GuardarTxt.pdb
+C:\Users\User\OneDrive\Escritorio\GuardarTxt\GuardarTxt\bin\Debug\GuardarTxt.exe.config
+C:\Users\User\OneDrive\Escritorio\GuardarTxt\GuardarTxt\bin\Debug\GuardarTxt.exe
+C:\Users\User\OneDrive\Escritorio\GuardarTxt\GuardarTxt\bin\Debug\GuardarTxt.pdb
+C:\Users\User\OneDrive\Escritorio\GuardarTxt\GuardarTxt\obj\Debug\GuardarTxt.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\GuardarTxt\GuardarTxt\obj\Debug\GuardarTxt.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Escritorio\GuardarTxt\GuardarTxt\obj\Debug\GuardarTxt.Form1.resources
+C:\Users\User\OneDrive\Escritorio\GuardarTxt\GuardarTxt\obj\Debug\GuardarTxt.Properties.Resources.resources
+C:\Users\User\OneDrive\Escritorio\GuardarTxt\GuardarTxt\obj\Debug\GuardarTxt.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\GuardarTxt\GuardarTxt\obj\Debug\GuardarTxt.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\GuardarTxt\GuardarTxt\obj\Debug\GuardarTxt.exe
+C:\Users\User\OneDrive\Escritorio\GuardarTxt\GuardarTxt\obj\Debug\GuardarTxt.pdb
