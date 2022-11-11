@@ -55,7 +55,7 @@ namespace GuardarTxt
                 MessageBox.Show("No existe");
                 TextWriter Escribre = new StreamWriter("Credenciales.txt");
                 MessageBox.Show("Debes ingresar credenciales");
-                String var = Interaction.InputBox("Ingresa Tu correo Electronico", "CORREO ELECTRONICO", "Obb@gamail.com");
+                String var = Interaction.InputBox("Ingresa Tu correo Electronico", "CORREO ELECTRONICO", "Obb1313@gamail.com");
 
                 Escribre.WriteLine(var);
                 Escribre.WriteLine();
